@@ -1,0 +1,7 @@
+c:\users\abhinav\source\repos\ConsoleApp89\ConsoleApp89\bin\Debug\ConsoleApp89.exe.config
+c:\users\abhinav\source\repos\ConsoleApp89\ConsoleApp89\bin\Debug\ConsoleApp89.exe
+c:\users\abhinav\source\repos\ConsoleApp89\ConsoleApp89\bin\Debug\ConsoleApp89.pdb
+c:\users\abhinav\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.csprojResolveAssemblyReference.cache
+c:\users\abhinav\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.csproj.CoreCompileInputs.cache
+c:\users\abhinav\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.exe
+c:\users\abhinav\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.pdb
